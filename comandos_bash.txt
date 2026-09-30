@@ -1,0 +1,6 @@
+ls - lista
+cd - move diretório
+pwd - mostra caminho
+cat - entrar nos arquivos
+git init . - inicia o git no arquivo
+rm -rf "nome do arquivo" - deleta pastas
