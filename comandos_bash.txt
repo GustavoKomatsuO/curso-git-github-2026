@@ -3,3 +3,4 @@ cd - move diretório
 pwd - mostra caminho
 cat - entrar nos arquivos
 rm - deleta arquivo ou pastas
+rm -rf - remove de forma recursiva e forçada todos os diretorios
