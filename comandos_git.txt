@@ -4,3 +4,8 @@ git add 'nome_arquivo' - adiciona arquivo para ser commitado
 git commit -m "msg" - faz o commit
 git log - ver todos os commits feitos
 git diff 'nome do arquivo' - para ver o que foi commitado
+git checkout - entra num branch 
+git checkout -b 'nome da nova branch'- cria uma nova branch
+git reset - você volta no ultimo commit que você deu
+git branch -D 'nome da branch' (deleta branch)
+git merge "nome-branch" - vai pega oque tem nas outras branchs e coloca na main/master
