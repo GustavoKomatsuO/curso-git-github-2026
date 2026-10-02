@@ -7,5 +7,8 @@ git diff 'nome do arquivo' - para ver o que foi commitado
 git checkout - entra num branch 
 git checkout -b 'nome da nova branch'- cria uma nova branch
 git reset - você volta no ultimo commit que você deu
-git branch -D 'nome da branch' (deleta branch)
+git branch - vê as branchs que estão no git
+git branch -D 'nome da branch' - deleta branch
 git merge "nome-branch" - vai pega oque tem nas outras branchs e coloca na main/master
+git push origin 'nome da branch' - envia os códigos/commits locais para o github
+git pull origin 'nome da branch' - atualiza o código local com as alterações feitas no GitHub (pega o que foi alterado no github)
