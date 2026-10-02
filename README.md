@@ -2,5 +2,5 @@
 
 
 
-Aprimorando as habilidades com Git e Github
+Aprimorando as habilidades com Git e GitHub para melhorar os meus projetos futuros.
 
