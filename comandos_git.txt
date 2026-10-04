@@ -1,6 +1,7 @@
 git init. - cria uma repo git na pasta
 git status - mostra o status de cada arquivo
 git add 'nome_arquivo' - adiciona arquivo para ser commitado
+git config --global user.email/name "seu.email@exemplo.com/seu nome" - define quem que esta fazendo os commits e alterações
 git commit -m "msg" - faz o commit
 git log - ver todos os commits feitos
 git diff 'nome do arquivo' - para ver o que foi commitado
@@ -9,6 +10,8 @@ git checkout -b 'nome da nova branch'- cria uma nova branch
 git reset - você volta no ultimo commit que você deu
 git branch - vê as branchs que estão no git
 git branch -D 'nome da branch' - deleta branch
+git branch -M 'nome da branch' - renomeia a branch
 git merge "nome-branch" - vai pega oque tem nas outras branchs e coloca na main/master
+git remote add origin 'nome da url do repo' - define para onde os pulls do código local vao
 git push origin 'nome da branch' - envia os códigos/commits locais para o github
 git pull origin 'nome da branch' - atualiza o código local com as alterações feitas no GitHub (pega o que foi alterado no github)
