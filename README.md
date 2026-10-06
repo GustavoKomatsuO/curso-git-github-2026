@@ -6,7 +6,7 @@ Aprimorando as habilidades com Git e GitHub para melhorar os meus projetos futur
 
 
 
-\# Fluxo de trabalho Git local
+# Fluxo de trabalho Git local
 
 git checkout -b
 
@@ -26,7 +26,7 @@ git merge nova\_branch
 
 
 
-\# Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
+# Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
 git clone
 
@@ -52,7 +52,7 @@ git checkout main
 
 git branch -D <nova\_branch>
 
-\# Fluxo de trabalho GitHub <> Local (projetos open-source)
+# Fluxo de trabalho GitHub <> Local (projetos open-source)
 
 Fork do projeto para seu próprio github
 
