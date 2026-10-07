@@ -8,21 +8,21 @@ Aprimorando as habilidades com Git e GitHub para melhorar os meus projetos futur
 
 ## Fluxo de trabalho Git local
 
-git checkout -b
+01. git checkout -b
 
-cria ou atualiza arquivos
+02. cria ou atualiza arquivos
 
-git status
+03. git status
 
-git add arquivos
+04. git add arquivos
 
-git status
+05. git status
 
-git commit -m "minha mensagem"
+06. git commit -m "minha mensagem"
 
-git checkout main
+07. git checkout main
 
-git merge nova\_branch
+08. git merge nova\_branch
 
 
 
@@ -51,6 +51,8 @@ excluir <nova\_branch> origin
 git checkout main
 
 git branch -D <nova\_branch>
+
+
 
 ## Fluxo de trabalho GitHub <> Local (projetos open-source)
 
