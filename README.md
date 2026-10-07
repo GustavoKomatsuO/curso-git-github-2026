@@ -28,29 +28,29 @@ Aprimorando as habilidades com Git e GitHub para melhorar os meus projetos futur
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
-git clone
+01. git clone
 
-git checkout -b <nova\_branch>
+02. git checkout -b <nova\_branch>
 
-alterações de arquivos
+03. alterações de arquivos
 
-git status
+04. git status
 
-git add arquivos
+05. git add arquivos
 
-git status
+06. git status
 
-git commit -m "nova mensagem"
+07. git commit -m "nova mensagem"
 
-git push origin <nova\_branch>
+08. git push origin <nova\_branch>
 
-abrir Pull request no GitHub para main
+09. abrir Pull request no GitHub para main
 
-excluir <nova\_branch> origin
+10. excluir <nova\_branch> origin
 
-git checkout main
+11. git checkout main
 
-git branch -D <nova\_branch>
+12. git branch -D <nova\_branch>
 
 
 
