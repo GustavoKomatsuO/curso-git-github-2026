@@ -5,6 +5,7 @@ git config --global user.email/name "seu.email@exemplo.com/seu nome" - define qu
 git commit -m "msg" - faz o commit
 git log - ver todos os commits feitos
 git diff 'nome do arquivo' - para ver o que foi commitado
+git clean -fd - deleta todos os arquivos e pastas que ainda não foram adicionados ao git add
 git checkout - entra num branch 
 git checkout -b 'nome da nova branch'- cria uma nova branch
 git reset - você volta no ultimo commit que você deu
